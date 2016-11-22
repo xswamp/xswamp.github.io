@@ -1,0 +1,66 @@
+body {
+  background-color:#1E1E20;
+  margin:0%;
+  padding:0%;
+}
+
+h1 {
+  background-position:top center;
+  background-color:#C77966;
+  width: 100%;
+  text-align: center;
+  font-family: Arial;
+  letter-spacing: 30px;
+  text-transform: uppercase;
+  color: #473D3A;
+}
+
+a {
+    color: #473D3A;
+    text-decoration: none;
+    font-family: Arial;
+    font-size: 11px;
+    font-style: bold;
+    text-transform: uppercase;
+  }
+
+a:hover {
+    color: hotpink;
+  }
+
+.video1 {
+  display:block;
+  margin:0 auto;
+  width: 650px;
+  padding-top: 3px;
+  align-items: center;
+}
+
+.uppertext, .lowertext {
+  padding-left: 35%;
+}
+
+.uppertext {
+  padding-top: 3%;
+}
+
+#mixtapes {
+  padding-left: 35%;
+}
+
+#video {
+  padding-left: 28%;
+}
+
+.albumart {
+padding-top: 10%;
+padding-left: 13%;
+}
+
+#vol2 {
+  padding-left: 5%;
+}
+
+#vol3 {
+  padding-left: 5%;
+}
